@@ -1,5 +1,5 @@
 # query_constructor
-Structured visual SQL text constructor. Help manage and edit text in standard SQL (SELECT queries only)
+Structured visual SQL text constructor. Helps manage and edit text in standard SQL (SELECT queries only)
 
 Features
 - Parsing SQL text (you can edit already existed queries)
