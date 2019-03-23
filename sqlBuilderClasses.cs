@@ -342,7 +342,7 @@ namespace SqlBuilderClasses
 		{
 			get
 			{
-				return textOr;
+				return textOr.Replace(" (", "(");
 			}
 			set
 			{
