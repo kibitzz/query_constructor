@@ -9,3 +9,5 @@ Features
 - Extract or extend DB structure from query text
 - Automatic text formatting, syntax highlighting and enclose brackets
 - Save and reuse query templates
+
+Project was created at 2011 and published on sourceforge, you can get binaries here https://sourceforge.net/projects/queryconstruct/
